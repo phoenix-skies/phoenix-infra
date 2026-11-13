@@ -1,0 +1,5 @@
+   # Every change needs a review from the devops team
+   *                 @phoenix-skies/devops
+
+   # Production changes are extra sensitive
+   /envs/prod/       @phoenix-skies/devops
